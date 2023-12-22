@@ -1,0 +1,27 @@
+* {
+background-image: url("src/assets/image/fundo-imagem.png");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.container-fluid{
+  padding-bottom: 35px;
+}
+.img-principal{
+  margin-left: 68px;
+}
+.space{
+  padding-left: 15px;
+  color: white;
+
+}
+.space-two{
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  padding-top: 10px;
+}
+
+
+

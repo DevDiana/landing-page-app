@@ -1,0 +1,9 @@
+.cards{
+  margin-top: 15px;
+}
+.img-fluid{
+  padding-bottom: 15px;
+}
+.col {
+  margin-bottom: 10px; /* Ajuste o valor conforme necessário para reduzir o espaço entre os elementos */
+}
