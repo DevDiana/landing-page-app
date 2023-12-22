@@ -18,7 +18,6 @@ A Landing Page do App  é uma introdução visualmente envolvente e informativa 
 - **Angular 17:** Utilizado como o principal framework de desenvolvimento.
 - **Responsividade:** Design adaptado para garantir uma experiência consistente em diferentes dispositivos.
 - **Boas Práticas:** Adotadas práticas de codificação e design atuais para garantir a qualidade do código.
-- **Bootstrap
 
 
 
