@@ -1,27 +1,26 @@
-# LandingPage
+![Captura de tela 2023-12-22 193800](https://github.com/DevDiana/landing-page-app/assets/63608845/5b9a3f52-19a7-442c-b5cd-7369e9043a4f)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+![Captura de tela 2023-12-22 193856](https://github.com/DevDiana/landing-page-app/assets/63608845/ba4be730-f8fe-4477-bbbf-209282eb2ec3)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# Landing Page App
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Descrição do Projeto
 
-## Build
+A Landing Page do App  é uma introdução visualmente envolvente e informativa sobre o aplicativo fictício. Projetada para fornecer aos visitantes uma visão rápida e atrativa do que o aplicativo oferece, a página é uma vitrine virtual que destaca os principais recursos, funcionalidades e benefícios.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+### Técnicas e Tecnologias Utilizadas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Angular 17:** Utilizado como o principal framework de desenvolvimento.
+- **Responsividade:** Design adaptado para garantir uma experiência consistente em diferentes dispositivos.
+- **Boas Práticas:** Adotadas práticas de codificação e design atuais para garantir a qualidade do código.
+- **Bootstrap
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---
+**Observação:** Este é um projeto em constante evolução. Novas funcionalidades e projetos serão adicionados ao longo do tempo para refletir meu desenvolvimento contínuo como profissional.
