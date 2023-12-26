@@ -8,7 +8,8 @@
 
 ## Descrição do Projeto
 
-A Landing Page do App  é uma introdução visualmente envolvente e informativa sobre o aplicativo fictício. Projetada para fornecer aos visitantes uma visão rápida e atrativa do que o aplicativo oferece, a página é uma vitrine virtual que destaca os principais recursos, funcionalidades e benefícios.
+A Landing Page do App  é uma introdução visualmente envolvente e informativa sobre o aplicativo fictício. Projetada para fornecer aos visitantes uma visão rápida e atrativa do que o aplicativo oferece, a página é uma vitrine virtual que destaca os principais recursos, funcionalidades e benefícios. Link do projeto :  [[https://landing-page-app-eta.vercel.app/](https://landing-page-app-eta.vercel.app/)]
+
 
 
 
